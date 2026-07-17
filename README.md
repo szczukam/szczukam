@@ -46,7 +46,7 @@ Polish (fluent) · English (fluent) · French (fluent) · Spanish (>1340 days on
 
 | Event | Location | Year | Contribution |
 |---|---|---|---|
-| GGMM | Toulouse, France | 2023 | :frame_with_picture: Poster |
+| GGMM | Toulouse, France | 2023 | :flower_playing_cards: Poster |
 | GGMM | Normandie, France | 2025 | :studio_microphone: Talk — **:trophy: Prize winner** |
 | ACS Fall Meeting | Washington D.C., USA | 2025 | :studio_microphone: Talk |
 
@@ -60,7 +60,7 @@ Polish (fluent) · English (fluent) · French (fluent) · Spanish (>1340 days on
 
 ### :books: Courses
 
-- :robot_face: AI & Machine Learning — Coursera
+- :robot: AI & Machine Learning — Coursera
 - :eye: OpenCV — Computer Vision fundamentals
 
 ---
