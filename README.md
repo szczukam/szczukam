@@ -1,19 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A0DAD,100:D8BFD8&height=120&section=header&text=%5BYour%20Name%5D&fontSize=36&fontColor=ffffff&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A0DAD,100:D8BFD8&height=120&section=header&text=%5BMagdalena%20Szczuka%5D&fontSize=36&fontColor=ffffff&fontAlignY=55" width="100%"/>
 
 **PhD Candidate, CBI Toulouse** · Coarse-Grained Molecular Dynamics & Simulation Analysis
 
 ![Python](https://img.shields.io/badge/Python-6A0DAD?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-8A2BE2?style=flat-square&logo=gnubash&logoColor=white)
-![R](https://img.shields.io/badge/R-9370DB?style=flat-square&logo=r&logoColor=white)
-![Java](https://img.shields.io/badge/Java-B497D6?style=flat-square&logo=openjdk&logoColor=white)
 
 </div>
 
 ---
 
-### :female-scientist: About Me
+### :woman:  About Me
 
 PhD candidate at CBI Toulouse working on coarse-grained molecular dynamics (CG-MD) simulations, with a focus on developing analysis pipelines and simulation tools. Creator of **Auto Martini M3**, a tool for automated coarse-grained parametrization of small molecules, published in *Journal of Chemical Theory and Computation (JCTC)*. Background in bioinformatics, with active involvement in scientific outreach and communication.
 
@@ -38,7 +36,7 @@ PhD candidate at CBI Toulouse working on coarse-grained molecular dynamics (CG-M
 
 ---
 
-### :speaking_head_in_silhouette: Languages
+### :speech_balloon: Languages
 
 Polish (fluent) · English (fluent) · French (fluent) · Spanish (>1340 days on Duolingo and still counting)
 
@@ -78,7 +76,7 @@ Because science shouldn't stay locked in a simulation box:
 
 ---
 
-### :person_doing_cartwheel: Beyond the Lab
+### :sparkles: Beyond the Lab
 
 When I'm not coarse-graining molecules, I'm probably:
 
