@@ -21,8 +21,9 @@ PhD candidate at CBI Toulouse working on coarse-grained molecular dynamics (CG-M
 
 | Degree | Institution | Details |
 |---|---|---|
-| PhD Candidate | CBI Toulouse | Coarse-grained MD simulations; simulation analysis tool development |
+| PhD Candidate | CBI Toulouse / Eurofins CALIXAR | Coarse-grained MD simulations; simulation analysis tool development; GPCRs-ligand interactions |
 | MSc, Bioinformatics | Université de Toulouse | Python / SQL / RStudio / JAVA (coded some sort of chess.com) |
+| BSc, Biochemistry Molecular Biology and Microbiology | Université de Toulouse | Structural bio; Bio cell; Genetics; Biotech |
 
 ---
 
@@ -69,9 +70,9 @@ Polish (fluent) · English (fluent) · French (fluent) · Spanish (>1340 days on
 
 Because science shouldn't stay locked in a simulation box:
 
-- :trophy: **Ma Thèse en 180 secondes** — qualified for the regional finals
+- :trophy: **Ma Thèse en 180 secondes** — qualified for the regional finals (see my presentation [here](https://www.youtube.com/watch?v=oSFXVgh_Rt8))
 - :beer: **Pint of Science 2026** — volunteer & co-organiser for *two* nights: *Quantum Physics* and *Mental Health in Space*
-- :microscope: **Curiosity Seminars** (founder) — an in-lab series inviting young researchers from other fields to present their work to the group
+- :microscope: **Curiosity Seminars** (curator) — an in-lab series inviting young researchers from other fields to present their work to the group
 - :microbe: **Microsymposium** (x3) — co-organised this yearly, PhD candidates-run symposium on microbiology, from concept to closing remarks
 
 ---
