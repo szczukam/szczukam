@@ -30,10 +30,10 @@ PhD candidate at CBI Toulouse working on coarse-grained molecular dynamics (CG-M
 ### :page_facing_up: Research
 
 - Development and analysis of coarse-grained molecular dynamics simulations
-- Design of scripts and pipelines for simulation data analysis
-- Author of **Auto Martini M3**, an automated tool for Martini coarse-grained parametrization of small molecules
+- Design of scripts and pipelines for simulation data analysis in pharmaceutical research contexts
+- Author of **Auto Martini M3**, an automated tool for Martini 3 force field coarse-grained parametrization of molecules with up to 25 heavy atoms
   - Published in *Journal of Chemical Theory and Computation (JCTC)* — *[https://doi.org/10.1021/acs.jctc.5c01178]*
-  - Applied to small-molecule parametrization for GPCR systems in pharmaceutical research contexts
+  - Applied to small-molecule parametrization for running Coarse Grained MD simulations 
 
 ---
 
