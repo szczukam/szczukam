@@ -1,7 +1,8 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A0DAD,100:D8BFD8&height=120&section=header&text=%5BMagdalena%20Szczuka%5D&fontSize=36&fontColor=ffffff&fontAlignY=55" width="100%"/>
-
+ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨
+ 
 **PhD Candidate, CBI Toulouse** · Coarse-Grained Molecular Dynamics & Simulation Analysis
 
 ![Python](https://img.shields.io/badge/Python-6A0DAD?style=flat-square&logo=python&logoColor=white)
