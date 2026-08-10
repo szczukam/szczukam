@@ -82,8 +82,8 @@ Because science shouldn't stay locked in a simulation box:
 
 When I'm not coarse-graining molecules, I'm probably:
 
-- :airplane: Chasing new stamps in my passport — travel is my other favourite kind of simulation (real-world, higher resolution)
-- :circus_tent: Doing **aerial circus arts** — turns out hanging upside down helps you see molecular problems right-side up
+- :airplane: Chasing new stamps in my passport 
+- :circus_tent: Doing **aerial circus arts** — aerial hoop and flying trapeze
 
 ---
 
