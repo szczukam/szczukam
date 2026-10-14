@@ -40,7 +40,7 @@ PhD candidate at CBI Toulouse working on coarse-grained molecular dynamics (CG-M
 
 ### :speech_balloon: Languages
 
-Polish (native) · English (fluent) · French (fluent) · Spanish (>1360 days on Duolingo and still counting)
+Polish (native) · English (fluent) · French (fluent) · Spanish (>1400 days on Duolingo and still counting)
 
 ---
 
