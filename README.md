@@ -59,6 +59,7 @@ Polish (native) · English (fluent) · French (fluent) · Spanish (>1400 days on
 | MAINFRAME | Barcelona, Spain | 2026 | Attendee |
 | CECAM — Modeling Approaches & cryo-EM | Toulouse, France | 2026 | Attendee |
 | Martini Odyssey | Athens, Greece | 2026 | :studio_microphone: Talk — *Auto Martini M3 & small-molecule CG parametrization for GPCR/pharma applications* |
+| PhD induction course at CBI - part on digital research tools | Toulouse, France | 2026 | :studio_microphone: Talk — *Obsidian for digital lab notebook and bibliography* |
 
 ### :books: Courses
 
