@@ -54,7 +54,7 @@ Polish (native) · English (fluent) · French (fluent) · Spanish (>1400 days on
 
 ### :jigsaw: Workshops
 
-| Workshop | Location | Year | Notes |
+| Workshop | Location | Year | Contribution |
 |---|---|---|---|
 | MAINFRAME | Barcelona, Spain | 2026 | Attendee |
 | CECAM — Modeling Approaches & cryo-EM | Toulouse, France | 2026 | Attendee |
@@ -84,7 +84,7 @@ Because science shouldn't stay locked in a simulation box:
 When I'm not coarse-graining molecules, I'm probably:
 
 - :airplane: Chasing new stamps in my passport 
-- :circus_tent: Doing **aerial circus arts** — aerial hoop and flying trapeze
+- :circus_tent: Doing **aerial circus arts** - aerial hoop and flying trapeze
 
 ---
 
